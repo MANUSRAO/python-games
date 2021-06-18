@@ -1,7 +1,7 @@
 # Small Python Games
 1. This is just a repo to link and organize various games already created by me. 
 ## 1. [Hangman](https://github.com/MANUSRAO/hangman)
-<img src = ""></img>
+<img src = "https://github.com/MANUSRAO/python-games/blob/main/images/hangman-game-260nw-623194223%20(1).jpg"></img>
 Hangman is a classic word guessing game, in this repo I have incorporated the principles of the game for anyone to experience the game first hand!! The repo includes 3 files all vital for the working of the game,
   * hangman_words.py - It includes the library of words for the game 
   * hangman_art.py - It includes art ascii used in the game 
