@@ -52,7 +52,7 @@ Guess The Number game is a fun interactive game in which you have to guess numbe
 
 Bet On Turtle is a interactive game where you have to make a guess on which Turtle will win the race. You can choose from 5 different colors of Turtle
 ## 8. [Whiz-a-doodle](https://github.com/MANUSRAO/whiz-doodle)
-<img src="https://github.com/MANUSRAO/python-games/blob/main/images/whiz-a-doodle.jpeg"></img>
+<img src="https://github.com/MANUSRAO/python-games/blob/main/images/whiz-a-doodle%20(1).jpeg"></img>
 
 
 Whiz Doodle is the same old game incarnation on your screen
