@@ -8,9 +8,13 @@ Hangman is a classic word guessing game, in this repo I have incorporated the pr
   * hangman_words.py - It includes the library of words for the game 
   * hangman_art.py - It includes art ascii used in the game 
   * main.py - It includes all the logic and working code of the game Happy to recieve enhancements, doubts or queries!!
+
+
  [You can play the game here](https://replit.com/@cloveCodes/Hangman) 
 ## 2. [Treasure Island](https://github.com/MANUSRAO/treasure-island)
-<img src= ""></img>
+<img src= "https://github.com/MANUSRAO/python-games/blob/main/images/download%20(1)%20(1).jpeg"></img>
+
+
 Treasure Island is a simple logic game, in which the player has to make challenging decisions in order to reach the treasure. BEWARE, there is danger everywhere!! To experience the game first hand, then use this link: [Play Game here](https://replit.com/@cloveCodes/treasure-island-game?embed=1&output=1#main.py) Press Green Play button at right bottom corner. [You can play the game here](https://replit.com/@cloveCodes/treasure-island-game?embed=1&output=1#main.py)
 ## 3. [Black Jack](https://github.com/MANUSRAO/black-jack)
 <img src=""></img>
