@@ -1,4 +1,4 @@
-# Python Games
+# Small Python Games
 1. This is just a repo to link and organize various games already created by me. 
 ## 1. [Hangman](https://github.com/MANUSRAO/hangman)
 <img src = ""></img>
@@ -36,6 +36,3 @@ Up for some Nostalgia? If yes, then try my new snake game just like in old nokia
 ## 11. [Pong](https://github.com/MANUSRAO/pong)
 <img src=""></img>
 Pong is the legendary arcade game which brought gaming to the masses. Pong was created by Allan Alcorn under Atari Games. This repository reflects the game's full features
-## 12. [U.S States learning game](https://github.com/MANUSRAO/us-states)
-<img src=""></img>
-This python game lets you guess 50 american states and also helps you learn them by visually depeciting the USA map. It also has saving features so you can come back and look at the states you missed back and hence learn more efficiently
